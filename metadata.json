@@ -1,0 +1,6 @@
+{
+  "name": "Atithi",
+  "description": "Enterprise-grade tourism portal with streamlined verification, heritage exploration, and trip planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
